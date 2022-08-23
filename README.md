@@ -5,6 +5,10 @@ Aplikasi ini merupakan aplikasi internal untuk ptpn 3 yang dimana mereka bisa me
 - Pelatihan
 - Karyawan
 
+## Screnshot App
+<img src= "https://raw.githubusercontent.com/candrajulius/training_employee_ptpn_3/master/SS_App_Training_Employee_PTPN_III.png?token=GHSAT0AAAAAABRSCVVYXPREBZWQBHGH3LBAYYEVUJA" />
+
+
 ## Library Used
 * [Room Database](https://developer.android.com/training/data-storage/room) -> **Database**
 * [Hilt](https://developer.android.com/training/dependency-injection/hilt-android?hl=id) -> **Dependency Injection**
